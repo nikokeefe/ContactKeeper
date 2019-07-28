@@ -1,4 +1,5 @@
 {
+  "mongoURIv2": "mongodb://nik123:nik123@contactkeeper-shard-00-00-g2qpd.mongodb.net:27017,contactkeeper-shard-00-01-g2qpd.mongodb.net:27017,contactkeeper-shard-00-02-g2qpd.mongodb.net:27017/test?ssl=true&replicaSet=ContactKeeper-shard-0&authSource=admin&retryWrites=true&w=majority",
   "mongoURIv3": "mongodb+srv://nik123:nik123@contactkeeper-g2qpd.mongodb.net/test?retryWrites=true&w=majority",
   "jwtSecret": "secret"
 }
